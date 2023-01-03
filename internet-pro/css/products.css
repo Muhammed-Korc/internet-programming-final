@@ -1,0 +1,19 @@
+
+
+
+.card{
+ float:right;
+ margin-right: 70px;
+}.card img{
+    width: 100%;
+    height: 200px;
+}
+@media(max-width:1200px){
+    .card{
+        float:right;
+        margin-right: 40px;
+       }.card img{
+        width: 100%;
+        height: 200px;
+    }
+}
